@@ -1,6 +1,6 @@
 {
   "name": "react-router-dom-fix",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A change in address does not trigger a render call to useNavigate().",
   "author": "stacew",
   "license": "MIT",

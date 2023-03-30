@@ -33,10 +33,10 @@ const BrowserRouterFix = (props: { children: ReactNode }) => {
 }
 
 export {
-  useNavigate,
-  useNavigateFix,
   BrowserRouterFix,
-  Route,
+  useNavigateFix,
   Routes,
-  useLocation
+  Route,
+  useLocation,
+  useNavigate
 }

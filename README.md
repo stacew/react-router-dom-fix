@@ -7,6 +7,18 @@ If the address changes, useNavigate() will not invoke the re-render.
 
 [![NPM](https://img.shields.io/npm/v/react-router-dom-fix.svg)](https://www.npmjs.com/package/react-router-dom-fix) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+
+### export
+
+BrowserRouterFix,
+useNavigateFix,
+
+useNavigate,
+useLocation,
+
+Routes,
+Route,
+
 ## License
 
 MIT © [stacew](https://github.com/stacew)

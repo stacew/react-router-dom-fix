@@ -10,14 +10,18 @@ If the address changes, useNavigate() will not invoke the re-render.
 
 ### export
 
-BrowserRouterFix,
-useNavigateFix,
-
-useNavigate,
-useLocation,
-
-Routes,
-Route,
+```ts
+export {
+  BrowserRouterFix,
+  useNavigateFix,
+  
+  Routes,
+  Route,
+  
+  useLocation
+  useNavigate,
+}
+```
 
 ## License
 

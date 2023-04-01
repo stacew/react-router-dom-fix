@@ -3,7 +3,7 @@
 - My personal react-router-dom adapter, only a few available.
 
 - I did this because I didn't want the navigate function in the GNB menu to keep re-rendering when the URL sub-address changed.
-- If the address changes, `useNavigate()` will not invoke the re-render.
+- If the address changes, `useNavigateFix()` will not invoke the re-render.
 
 ### `Warning: I haven't had any problems yet, but you have to be careful. `
 
